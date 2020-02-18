@@ -3,6 +3,7 @@ import numpy as np
 from numpy import poly1d,polyfit  
 import matplotlib.pyplot as plt
 from sympy import Symbol
+import pandas as pd
 
 # Para imprimir en formato LaTex
 from sympy.interactive import printing
